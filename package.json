@@ -1,0 +1,30 @@
+{
+  "name": "numberific",
+  "version": "1.0.0",
+  "description": "Simple utility for formatting numbers as strings",
+  "main": "numberific.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludo/numberific.git"
+  },
+  "keywords": [
+    "numbers",
+    "thousands",
+    "decimal",
+    "formatting",
+    "printf",
+    "number"
+  ],
+  "author": "Ludo van den Boom <ludo@cubicphuse.nl> (https://github.com/ludo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ludo/numberific/issues"
+  },
+  "homepage": "https://github.com/ludo/numberific#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
